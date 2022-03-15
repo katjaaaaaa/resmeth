@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script counts the amount of accurancies of an article "de" in a file
+# This script counts the amount of accurancies of the word "de" in a file
 
 # First command line argument
 FILE=$1

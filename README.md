@@ -1,6 +1,6 @@
 # "De" counter script
 
-This program takes a .txt or .pdf file with text in it as input, reads it and searches for a Dutch article "de". The search is case-sensitive and it counts all "de"s, encountered in a file. To test the script I included a .pdf file and a raw version of a webpage of Rijksuniversiteit Groningen as a .txt file. It is also possible to use other files to work with the script. The instructions of how to do that are listed in "to run" section.
+This program takes a .txt or .pdf file with text in it as input, reads it and searches for a word "de". The search is case-sensitive and it counts all "de"s, encountered in a file. To test the script I included a .pdf file and a raw version of a webpage of Rijksuniversiteit Groningen as a .txt file. It is also possible to use other files to work with the script. The instructions of how to do that are listed in "to run" section.
 
 ## Used software
 The script was tested by using `bash` command on **Ubuntu OS**. Steps for running the code, as well as expected output of the program, are accurate for the following versions of software: 
